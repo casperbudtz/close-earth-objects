@@ -17,7 +17,7 @@ iterator.
 You'll edit this file in Tasks 3a and 3c.
 """
 import operator
-
+fdfdf
 
 class UnsupportedCriterionError(NotImplementedError):
     """A filter criterion is unsupported."""
